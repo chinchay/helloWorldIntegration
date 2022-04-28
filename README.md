@@ -16,6 +16,17 @@ Demonstration of the software running and a walktrough of the code can be found 
 
 Python has been used through virtual environemnts using `pyenv` for safety and flexibility.
 
+Useful `pyenv` commands:
+```python
+pyenv install -v 3.9.5
+```
+```python
+pyenv virtualenv 3.9.5 mlbyui
+```
+```python
+pyenv local mlbyui
+```
+
 # Useful Websites
 
 * [Python](https://www.python.org/)
